@@ -1,0 +1,13 @@
+12
+A B 5 D 5 E 7
+B A 5 C 2
+C D 1 G 4
+D B 2 C 1 G 1
+E J 5 D 3
+F D 3 I 1 H 7
+G H 7 F 6
+H L 1 F 7 G 7
+I J 2 K 2 L 3
+J K 1 I 2
+K J 2 I 2 L 4
+L K 4 I 3 H 1
