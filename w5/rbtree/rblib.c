@@ -1,7 +1,6 @@
 #include "rblib.h"
 #include <stdio.h>
 #include <stdlib.h>
-
 /* Print tree keys by inorder tree walk */
 void copyStruct(PhoneEntry* target,PhoneEntry* source)
 {
@@ -342,7 +341,6 @@ void red_black_delete(struct node *z){
 
 void red_black_delete_fixup(struct node *x){
 	struct node *w;	
-
 	while(x != ROOT && x->color == BLACK){
 		
 		if(x == x->parent->left){
