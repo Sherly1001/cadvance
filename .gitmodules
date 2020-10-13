@@ -1,0 +1,6 @@
+[submodule ".\\final\\libfdr\\"]
+	path = .\\final\\libfdr\\
+	url = https://github.com/Sherly1001/libfdr
+[submodule ".\\ss\\libfdr\\"]
+	path = .\\ss\\libfdr\\
+	url = https://github.com/Sherly1001/libfdr
